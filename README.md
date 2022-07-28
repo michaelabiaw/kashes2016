@@ -1,14 +1,15 @@
 - 👋 Hi, I’m Michael from Ghana
 - 👀 I’m interested in writing software that solves problem in a creative way
-- 🌱 I’m currently learning python, javascript, postgres
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me on www.linkedIn.com/in/michaelabiaw
 
 ## skills
-⚛ Python
-⚛ MySQL
-⚛ PostgreSQL
-⚛ HTML, CSS,JS
+ Python
+ MySQL
+ PostgreSQL
+ HTML, CSS,JS
+ VScode
+
 
 
 
