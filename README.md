@@ -4,9 +4,9 @@
 - 📫 How to reach me on www.linkedIn.com/in/michaelabiaw
 
 ## skills
- Python
- MySQL
- PostgreSQL
+ Python,
+ MySQL,
+ PostgreSQL,
  HTML, CSS,JS
  VScode
 
