@@ -4,10 +4,16 @@
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me on www.linkedIn.com/in/michaelabiaw
 
+## skills
+⚛ Python
+⚛ MySQL
+⚛ PostgreSQL
+⚛ HTML, CSS,JS
+
 
 
 
 <!---
-kashes2016/kashes2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+michaelabiaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
